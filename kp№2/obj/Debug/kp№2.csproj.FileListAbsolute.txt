@@ -1,0 +1,8 @@
+D:\115\kp№2\bin\Debug\kp№2.exe.config
+D:\115\kp№2\bin\Debug\kp№2.exe
+D:\115\kp№2\bin\Debug\kp№2.pdb
+D:\115\kp№2\obj\Debug\kp№2.csproj.AssemblyReference.cache
+D:\115\kp№2\obj\Debug\kp№2.csproj.SuggestedBindingRedirects.cache
+D:\115\kp№2\obj\Debug\kp№2.csproj.CoreCompileInputs.cache
+D:\115\kp№2\obj\Debug\kp№2.exe
+D:\115\kp№2\obj\Debug\kp№2.pdb
